@@ -33,5 +33,6 @@ public class Test {
         System.out.println("third");
         System.out.println("branch1 合并!");
         System.out.println("branch1 commit conflict!");
+        System.out.println("branch1");
     }
 }
