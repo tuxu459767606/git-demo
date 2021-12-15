@@ -32,5 +32,6 @@ public class Test {
         System.out.println("hello git pro!");
         System.out.println("third");
         System.out.println("branch1 合并!");
+        System.out.println("branch1 commit conflict!");
     }
 }
